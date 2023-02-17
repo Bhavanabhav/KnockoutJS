@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productNumber": "11",
+      "productDescription": "mobile",
+      "weight": "100",
+      "listPrice": "200",
+      "country": "india",
+      "description": "dfgh"
+    },
+    {
+      "id": 2,
+      "productNumber": "11",
+      "productDescription": "desktop"
+    }
+  ]
+}
